@@ -1,0 +1,22 @@
+# Python cache/build artifacts
+__pycache__/
+*.py[cod]
+*.so
+
+# Test/cache tooling
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.coverage
+htmlcov/
+
+# Virtual envs
+.venv/
+venv/
+env/
+
+# OS/editor
+.DS_Store
+.idea/
+.vscode/
+

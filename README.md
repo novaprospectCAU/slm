@@ -13,5 +13,5 @@ python -m pip install --upgrade pip
 pip install -e ".[dev]"
 python -m pytest -q
 python demos/demo_mlp.py
+python demos/demo_linear_regression.py
 ```
-
